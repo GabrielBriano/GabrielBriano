@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Briano 🖐️
+### Hello! My name is Gabriel Briano 🖐️
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielbriano.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-briano-de-oliveira-b40424226/)
