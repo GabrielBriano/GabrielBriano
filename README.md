@@ -2,13 +2,17 @@
 
 <div> 
     <a href="https://gabrielbriano.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-    <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"         
+    target="_blank"></a>
     <a href="https://x.com/Guerra00749058" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 <div style="display: flex; justify-content: center;">
+    
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielBriano&theme=transparent" />
+    
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBriano&layout=compact&langs_count=8&card_width=280&theme=transparent" />
+  
 </div>
 
 ## My Skills
