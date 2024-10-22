@@ -6,8 +6,7 @@
     <a href="https://x.com/Guerra00749058" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielBriano&theme=transparent" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBriano&layout=compact&langs_count=8&card_width=280&theme=transparent" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielBriano&theme=transparent" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBriano&layout=compact&langs_count=8&card_width=280&theme=transparent" />
 
 ## My Skills
 
