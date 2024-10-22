@@ -8,11 +8,8 @@
 </div>
 
 <div style="display: flex; justify-content: center;">
-    
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielBriano&theme=transparent" />
-    
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBriano&layout=compact&langs_count=8&card_width=280&theme=transparent" />
-  
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielBriano&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBriano&layout=compact&langs_count=8&card_width=280&theme=transparent" />
 </div>
 
 ## My Skills
