@@ -6,7 +6,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5519997778215&text&type=phone_number&app_absent=0)
 
 ![GabrielBriano GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBriano&show_icons=true&theme=dark)
-![GabrielBriano Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBriano&layout=compact)
+[![GabrielBriano Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBriano&layout=donut&theme=dark)](https://github.com/GabrielBriano/github-readme-stats)
+
 
 ### Minhas habilidades
 
