@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Briano 🖐️
+### Hi, my name is Gabriel Briano 🖐️
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielbriano.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-briano-de-oliveira-b40424226/)
@@ -9,7 +9,7 @@
 [![GabrielBriano Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBriano&layout=donut&theme=dark)](https://github.com/GabrielBriano/github-readme-stats)
 
 
-### Minhas habilidades
+### My Skills
 
 <div>
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
