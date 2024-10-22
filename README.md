@@ -1,4 +1,4 @@
-# Hello! My name is Gabriel Briano 🖐️
+# Hello! My name is Gabriel Briano.
 
 <div> 
     <a href="https://gabrielbriano.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
